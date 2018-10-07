@@ -1,3 +1,5 @@
+#Esther Malone
+#HackFredrieck Hackathon
 import requests
 import pprint
 
